@@ -1,0 +1,19 @@
+{
+  "name": "react_express_starter",
+  "version": "1.0.0",
+  "description": "React Express Starter Pack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottjmoore/react_express_start.git"
+  },
+  "author": "Scott J Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottjmoore/react_express_start/issues"
+  },
+  "homepage": "https://github.com/scottjmoore/react_express_start#readme"
+}
